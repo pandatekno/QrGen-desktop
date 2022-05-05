@@ -12,7 +12,7 @@
 
   > Main
 
-  [![20220221-205034.png](Screenshot_20220505-085640192.jpg)](Screenshot_20220505-085640192.jpg)
+  [![qrgen.PNG](qrgen.PNG)](qrgen.PNG)
 
 ## Credits
 
