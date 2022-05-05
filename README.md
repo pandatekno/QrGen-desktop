@@ -19,4 +19,4 @@
 - [w3css theme teal](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_theme_teal) color palette teal
 
 ## Download
-- [click here](https://github.com/pandatekno/QrGen-app/releases/tag/v1.0)
+- [click here](https://github.com/pandatekno/QrGen-desktop/releases/tag/v1.0)
